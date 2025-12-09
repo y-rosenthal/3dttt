@@ -1,0 +1,5 @@
+{
+  "name": "Tri-Tactics: 3-Player Tic-Tac-Toe",
+  "description": "A chaotic strategic battle for 3 players on a 5x5 grid. Connect 4 symbols to win!",
+  "requestFramePermissions": []
+}
